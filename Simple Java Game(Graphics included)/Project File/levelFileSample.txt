@@ -1,0 +1,5 @@
+(backround image name)
+(ground image name, if is a colour then set to that colour)
+(block colour)
+(total number of blocks to spawn)
+(rate at which blocks spawn per second)

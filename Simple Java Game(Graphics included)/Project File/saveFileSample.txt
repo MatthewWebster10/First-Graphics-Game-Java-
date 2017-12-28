@@ -1,0 +1,3 @@
+(level that the user was last on)
+(score)
+(time of last save [for display])
